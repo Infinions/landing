@@ -61,8 +61,8 @@ export default function Header(props) {
             <Typography variant="subtitle1" color="textSecondary" paragraph={true} className={classes.description}>{content['description']}</Typography>
           </Container>
           <Box mt={3}>
-            <Button href="https://infin.di.uminho.pt/users/register" variant="contained" color="secondary" className={classes.primaryAction}>{content['primary-action']}</Button>
-            <Button href="https://infin.di.uminho.pt/users/log_in" variant="outlined" color="secondary" className={classes.secondaryAction}>{content['secondary-action']}</Button>
+            <Button href="https://infin.di.uminho.pt/app/users/register" variant="contained" color="secondary" className={classes.primaryAction}>{content['primary-action']}</Button>
+            <Button href="https://infin.di.uminho.pt/app/users/log_in" variant="outlined" color="secondary" className={classes.secondaryAction}>{content['secondary-action']}</Button>
           </Box>
         </Box>
       </Container>

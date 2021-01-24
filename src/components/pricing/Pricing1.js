@@ -89,7 +89,7 @@ export default function Pricing(props) {
                     <Typography color="textSecondary" variant="subtitle1" component="p">{content['01_benefit3']}</Typography>
                     <Typography color="textSecondary" variant="subtitle1" component="p" paragraph={true}>{content['01_benefit4']}</Typography>
                   </Box>
-                  <Button href="https://infin.di.uminho.pt/users/register" variant="outlined" color="primary" className={classes.primaryAction}>{content['01_primary-action']}</Button>
+                  <Button href="https://infin.di.uminho.pt/app/users/register" variant="outlined" color="primary" className={classes.primaryAction}>{content['01_primary-action']}</Button>
                 </CardContent>
               </Card>
             </Grid>
@@ -107,7 +107,7 @@ export default function Pricing(props) {
                     <Typography color="textSecondary" variant="subtitle1" component="p">{content['02_benefit3']}</Typography>
                     <Typography color="textSecondary" variant="subtitle1" component="p" paragraph={true}>{content['02_benefit4']}</Typography>
                   </Box>
-                  <Button href="https://infin.di.uminho.pt/users/register" variant="contained" color="primary">{content['02_primary-action']}</Button>
+                  <Button href="https://infin.di.uminho.pt/app/users/register" variant="contained" color="primary">{content['02_primary-action']}</Button>
                 </CardContent>
               </Card>
             </Grid>
@@ -125,7 +125,7 @@ export default function Pricing(props) {
                     <Typography color="textSecondary" variant="subtitle1" component="p">{content['03_benefit3']}</Typography>
                     <Typography color="textSecondary" variant="subtitle1" component="p" paragraph={true}>{content['03_benefit4']}</Typography>
                   </Box>
-                  <Button href="https://infin.di.uminho.pt/users/register" variant="outlined" color="primary">{content['03_primary-action']}</Button>
+                  <Button href="https://infin.di.uminho.pt/app/users/register" variant="outlined" color="primary">{content['03_primary-action']}</Button>
                 </CardContent>
               </Card>
             </Grid>
