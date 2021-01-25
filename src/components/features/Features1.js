@@ -27,17 +27,11 @@ export default function Features(props) {
     'header-p2': 'turpis non sapien lobortis pretium',
     'description': 'Integer feugiat massa sapien, vitae tristique metus suscipit nec.',
     'col1-header': 'Lorem ipsum dolor sit amet',
-    'col1-desc': 'In eget ligula ut est interdum finibus. Etiam consectetur, libero tincidunt vulputate fermentum, nisi nulla cursus turpis.',
     'col2-header': 'Lorem ipsum dolor sit amet',
-    'col2-desc': 'In eget ligula ut est interdum finibus. Etiam consectetur, libero tincidunt vulputate fermentum, nisi nulla cursus turpis.',
     'col3-header': 'Lorem ipsum dolor sit amet',
-    'col3-desc': 'In eget ligula ut est interdum finibus. Etiam consectetur, libero tincidunt vulputate fermentum, nisi nulla cursus turpis.',
     'col4-header': 'Lorem ipsum dolor sit amet',
-    'col4-desc': 'In eget ligula ut est interdum finibus. Etiam consectetur, libero tincidunt vulputate fermentum, nisi nulla cursus turpis.',
     'col5-header': 'Lorem ipsum dolor sit amet',
-    'col5-desc': 'In eget ligula ut est interdum finibus. Etiam consectetur, libero tincidunt vulputate fermentum, nisi nulla cursus turpis.',
     'col6-header': 'Lorem ipsum dolor sit amet',
-    'col6-desc': 'In eget ligula ut est interdum finibus. Etiam consectetur, libero tincidunt vulputate fermentum, nisi nulla cursus turpis.',
     ...props.content
   };
 
