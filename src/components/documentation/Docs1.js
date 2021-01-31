@@ -55,9 +55,9 @@ export default function Docs1(props) {
           </Box>
           <Grid container spacing={2} justify="center">
             <List aria-label="main mailbox folders">
-              <ListItemLink to="https://drive.google.com/file/d/1hH98gBn4O9jYr6-MIiTVBqPJ19bzubGF/view?usp=sharing" primary="Infin - Final Technical Report" icon={<DescriptionIcon />} />
-              <ListItemLink to="https://drive.google.com/file/d/1PaucFDy8oFnhDVpowJSofVkznGiQ8LfL/view?usp=sharing" primary="Infin - Business Case Report" icon={<BusinessIcon />} />
-              <ListItemLink to="https://drive.google.com/file/d/1OJ2tJ2P1-WbBAswma5KCt6FgpN7ytimY/view?usp=sharing" primary="Infin - Financial Model Business Plan" icon={<AccountBalanceIcon />} />
+              <ListItemLink to="https://github.com/Infinions/Infinions/tree/main/reports/TechnicalReport.pdf" primary="Infin - Technical Report" icon={<DescriptionIcon />} />
+              <ListItemLink to="https://github.com/Infinions/Infinions/tree/main/reports/BusinessCase.pdf" primary="Infin - Business Case Report" icon={<BusinessIcon />} />
+              <ListItemLink to="https://github.com/Infinions/Infinions/tree/main/reports/FinancialAnalysis.xlsm" primary="Infin - Financial Model Business Plan" icon={<AccountBalanceIcon />} />
             </List>
           </Grid>
         </Box>
