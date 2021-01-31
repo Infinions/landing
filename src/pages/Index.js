@@ -53,7 +53,7 @@ export default function Index() {
 
       <Video1
         content={{
-          'url': 'https://www.youtube.com/watch?v=5qap5aO4i9A'
+          'url': 'https://www.youtube.com/watch?v=_eLPdUb8s58&t=1s'
         }}
       />
 
@@ -86,33 +86,60 @@ export default function Index() {
           'header-p2': 'always here to help yours',
           description:
             "We're here to answer your questions and discuss the automation of your company financial processes.",
+
           '01_image': '/images/barbara.jpeg',
           '01_name': 'Bárbara Cardoso',
           '01_job': 'Frontend Developer',
-          '02_image': '/images/catarina.jpg',
-          '02_name': 'Catarina Machado',
-          '02_job': 'Frontend Developer',
-          '03_image': '/images/jessicalemos.jpg',
-          '03_name': 'Jéssica Lemos',
+          '01_github': 'https://github.com/Barbara29',
+          '01_linkedin': 'https://linkedin.com/in/barbaraferreira98',
+
+          '02_image': '/images/bruno.jpeg',
+          '02_name': 'Bruno Martins',
+          '02_job': 'Backend Developer',
+          '02_github': 'https://github.com/BrunoMartins11',
+          '02_linkedin': 'https://www.linkedin.com/in/brunocmartins11',
+
+          '03_image': '/images/catarina.jpg',
+          '03_name': 'Catarina Machado',
           '03_job': 'Frontend Developer',
+          '03_github': 'https://github.com/catarinamachado',
+          '03_linkedin': 'https://www.linkedin.com/in/catarinaamachado',
+
           '04_image': '/images/eduardo.jpg',
           '04_name': 'Eduardo Barbosa',
           '04_job': 'Backend Developer',
-          '05_image': '/images/bruno.jpeg',
-          '05_name': 'Bruno Martins',
-          '05_job': 'Backend Developer',
-          '06_image': '/images/joaovilaca.png',
-          '06_name': 'João Vilaça',
-          '06_job': 'Backend Developer',
-          '07_image': '/images/marcio.jpg',
-          '07_name': 'Márcia Sousa',
+          '04_github': 'https://github.com/herulume',
+          '04_linkedin': 'https://www.linkedin.com/in/herulume',
+
+          '05_image': '/images/filipe.jpg',
+          '05_name': 'Filipe Monteiro',
+          '05_job': 'Data Analyst',
+          '05_github': 'https://github.com/pimonteiro',
+          '05_linkedin': 'https://linkedin.com/in/barbaraferreira98',
+
+          '06_image': '/images/jessicalemos.jpg',
+          '06_name': 'Jéssica Lemos',
+          '06_job': 'Frontend Developer',
+          '06_github': 'https://github.com/jessicalemos',
+          '06_linkedin': 'https://www.linkedin.com/in/jessicalemos9',
+
+          '07_image': '/images/joaovilaca.png',
+          '07_name': 'João Vilaça',
           '07_job': 'Backend Developer',
-          '08_image': '/images/filipe.jpg',
-          '08_name': 'Filipe Monteiro',
-          '08_job': 'Data Analyst',
-          '09_image': '/images/grenhas.png',
-          '09_name': 'João Grenhas',
-          '09_job': 'Requirement and Architecture Analyst',
+          '07_github': 'https://github.com/machadovilaca',
+          '07_linkedin': 'https://www.linkedin.com/in/machadovilaca',
+
+          '08_image': '/images/grenhas.png',
+          '08_name': 'João Grenhas',
+          '08_job': 'Requirement and Architecture Analyst',
+          '08_github': 'https://github.com/JMGrenhas',
+          '08_linkedin': 'https://www.linkedin.com/in/JoãoMGrenhas',
+
+          '09_image': '/images/marcio.jpg',
+          '09_name': 'Márcio Sousa',
+          '09_job': 'Backend Developer',
+          '09_github': 'https://github.com/dunnadan',
+          '09_linkedin': 'https://www.linkedin.com/in/marcio20sousa',
         }}
       />
 

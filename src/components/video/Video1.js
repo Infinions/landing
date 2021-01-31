@@ -8,7 +8,7 @@ import Typography from '@material-ui/core/Typography';
 
 export default function Video1(props) {
   const content = {
-    'url': 'https://www.youtube.com/watch?v=5qap5aO4i9A',
+    'url': 'https://www.youtube.com/watch?v=_eLPdUb8s58&t=1s',
     ...props.content
   };
 
